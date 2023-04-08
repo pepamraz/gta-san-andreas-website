@@ -6,7 +6,7 @@
 
 <section
   class="section"
-  style="background-image: url(public/images/{imageUrl});"
+  style="background-image: url(images/{imageUrl});"
 >
   <div class="overlay" />
   <div class="content">

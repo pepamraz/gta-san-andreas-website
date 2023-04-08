@@ -29,4 +29,4 @@ npm run dev
 This will start a local development server, and you can access the website on localhost.
 
 ## Contributing
-If you'd like to contribute to this project, we welcome pull requests and issue reports. Please see our CONTRIBUTING.md file for more information on how to get started.
+If you'd like to contribute to this project, we welcome pull requests and issue reports.

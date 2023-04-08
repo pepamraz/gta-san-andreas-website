@@ -62,7 +62,7 @@
   #map {
     width: 200px;
     aspect-ratio: 1/1;
-    background-image: url("public/images/gta_san_andreas_map.webp");
+    background-image: url("images/gta_san_andreas_map.webp");
     background-size: cover;
     background-position: center 20%;
     transition: 0.1s ease-out;

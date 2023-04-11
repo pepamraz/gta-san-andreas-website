@@ -17,7 +17,7 @@ Used Music:
 [Living Colour - Cult Of Personality](https://www.youtube.com/watch?v=7xxgRUyzgs0)
 
 ## Cheat Codes
-For those who like to play the game with cheat codes, you'll be pleased to know that this page includes a cheat code that can be activated by typing "HESOYAM" into the console. This will instantly heal you and give you $250,000 in game currency, making it easy to jump right in and start playing.
+This page includes a cheat code that can be activated by typing "HESOYAM". This will instantly heal you and give you $250,000.
 
 ## Installation and Usage
 To use this website, simply clone the repository and open the index.html file in your browser of choice. Alternatively, you can run the following commands:

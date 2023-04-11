@@ -6,14 +6,13 @@
   window.onload = () => {
     main_element = document.querySelector(".sections");
 
-    //render_map();
+    render_map();
     main_element.addEventListener("scroll", render_map);
   };
 
   function render_map() {
     // Position of top of the map
     const min_y = 20;
-    set_map_cursor_y(min_y);
 
     // Position of bottom of the map
     const max_y = 90;
